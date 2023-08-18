@@ -6,13 +6,13 @@ This PowerShell script helps you analyze code statistics within a specified dire
 In short, the most resources are getting MERN stack friends for now ㋡
 
 ## How to Use
-1. Make sure you have PowerShell installed on your system.
-2. Clone this repository or copy the script code to a local `.ps1` file.
+1. Make sure you have PowerShell || Git Bash || Bash installed on your system.
+2. Clone this repository or copy the script code to a local `.ps1` || `.sh` file.
 
 ## Running the Script
 1. Open PowerShell.
 2. Navigate to the directory where you saved the script using the `cd` command.
-3. Run the script by entering `.\codeCounter.ps1`.
+3. Run the script by entering `.\codeCounter.ps1`. || `./codeCounter.sh`
 
 ## Usage
 1. The script will prompt you to enter the root directory path. Provide the path to the directory you want to analyze.
